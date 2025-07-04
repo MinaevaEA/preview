@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Boost.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/black</item>
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">@android:color/black</item>
+        <item name="postSplashScreenTheme">@style/Theme.Boost</item>
+        <item name="android:windowSplashScreenBehavior" tools:targetApi="33">icon_preferred</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@drawable/ic_splash</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="Theme.Boost" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+</resources>

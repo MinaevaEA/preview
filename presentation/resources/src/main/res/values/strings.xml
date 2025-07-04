@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_lectures">Лекции</string>
+    <string name="tab_favorites">Избранное</string>
+    <string name="tab_partners">Партнеры</string>
+    <string name="tab_about">О Нас</string>
+    
+    <string name="lectures_list_choose_category">Выбрать поток</string>
+    <string name="lectures_list_mastermind_title">Экспертный мастермайнд\nс ТОПами digital-рынка</string>
+    <string name="lectures_list_mastermind_description">Разбери сложности своего бизнеса с экспертами рынка</string>
+    <string name="lectures_list_mastermind_join">Принять участие</string>
+    <string name="speaker_list">Спикеры</string>
+    <string name="speaker_one">Спикер</string>
+    <string name="lection_question">Задать вопрос</string>
+    <string name="category_list_choose">Выбор потоков</string>
+    <string name="category_list_save">Сохранить выбор</string>
+
+    <string name="title_lectures_list">Ближайшие доклады</string>
+    <string name="title_category_list">Мои потоки</string>
+</resources>
